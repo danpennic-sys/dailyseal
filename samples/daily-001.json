@@ -1,0 +1,16 @@
+{
+  "type": "daily_field_report",
+  "job_id": "JOB-2026-042",
+  "site": "Site Alpha — Springfield, MO",
+  "date": "2026-11-03",
+  "crew": [
+    {"name": "Operator A", "hours": 8.0, "role": "Lead"},
+    {"name": "Operator B", "hours": 7.5, "role": "Tech"}
+  ],
+  "work_completed": "Installed 12 panels. Completed conduit run to panel 3.",
+  "issues": "Weather delay 45 min in morning. Resolved.",
+  "media_hashes": [],
+  "notes": "Client on-site at 14:00. Approved progress.",
+  "sealed_at": "2026-11-03T15:30:00Z",
+  "tool": "DailySeal/0.1.0"
+}
